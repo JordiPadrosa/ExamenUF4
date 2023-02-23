@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    {
+      "user": "jordi",
+      "title": "Fer",
+      "description": "fer algu",
+      "status": "TODO",
+      "id": "32ab7540-a1d7-4a3b-a82b-9dde5a9efa2e",
+      "createdAt": "23/2/2023, 17:32:01",
+      "updatedAt": "23/2/2023, 17:43:40"
+    },
+    {
+      "user": "marc",
+      "title": "Fer coses",
+      "description": "fer algu",
+      "status": "TODO",
+      "id": "48a39ae6-9b8b-40dd-acc9-b8bbb40ecd59",
+      "createdAt": "23/2/2023, 17:44:37",
+      "updatedAt": "23/2/2023, 17:44:37"
+    },
+    {
+      "user": "marc",
+      "title": "Fer moltes coses",
+      "description": "fer algu",
+      "status": "TODO",
+      "id": "48a39ae6-9b8b-40dd-acc9-b8bbb40ecd59",
+      "createdAt": "23/2/2023, 17:44:37",
+      "updatedAt": "23/2/2023, 17:44:37"
+    }
+  ],
+  "users": [
+    {
+      "username": "jordi",
+      "fullName": "Jordi Padrosa",
+      "id": "e8847c6c-c1ea-4966-bea6-ad1ee1d9316d",
+      "createdAt": "23/2/2023, 17:27:07",
+      "updatedAt": "23/2/2023, 17:27:08"
+    },
+    {
+      "username": "marc",
+      "fullName": "Marc Padrosa",
+      "id": "e23c5616-75f7-49f3-abcf-6f8325b03c27",
+      "createdAt": "23/2/2023, 17:33:03",
+      "updatedAt": "23/2/2023, 17:33:03"
+    }
+  ]
+}
